@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 import os
 import random
-import matplotlib.pyplot as plt
 from scipy import misc
 from keras.models import Sequential
 from keras.layers import Conv2D, MaxPooling2D, Dropout, Dense, Flatten
